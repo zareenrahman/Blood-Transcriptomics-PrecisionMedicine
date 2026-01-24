@@ -64,6 +64,16 @@ It demonstrates how large-scale data can inform **precision diagnostics** and **
 
 ---
 
+## Future Work
+
+- Add more patient data over time to track changes (like in aging or treatment)
+- Connect gene expression to real-world health info (e.g., symptoms, diagnosis)
+- Build a basic version of a digital twin – a personal model using gene activity
+- Try more clustering or machine learning methods for deeper patterns
+- Explore other diseases beyond inflammation or Alzheimer’s
+
+---
+
 ## Author
 **Zareen Rahman**
 
