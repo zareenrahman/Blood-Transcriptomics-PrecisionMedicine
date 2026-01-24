@@ -1,6 +1,7 @@
 # Blood Transcriptomics for Precision Medicine
 
 This project applies transcriptomic analysis of human blood and brain metastasis samples to discover cell-type-specific expression signatures relevant to **inflammation**, **neurodegeneration**, and **digital phenotyping**. This explores how gene expression can inform **P4 medicine** (Predictive, Preventive, Personalized, and Participatory).
+
 ---
 
 ## Data Sources
