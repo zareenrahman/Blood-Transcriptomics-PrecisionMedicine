@@ -45,7 +45,7 @@ Here are a few key visuals generated from the analysis:
 These figures help highlight which cell types may be more active in inflammation or neurodegenerative pathways, offering insights into disease mechanisms from a systems biology view.
 
 ---
-## 🚀 How to Use
+## How to Use
 
 1. Open the notebook: [`Blood_Transcriptomics_Analysis.ipynb`](notebooks/Blood_Transcriptomics_Analysis.ipynb)
 2. Follow the markdown explanations step-by-step
