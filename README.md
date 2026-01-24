@@ -3,7 +3,7 @@
 This project applies transcriptomic analysis of human blood and brain metastasis samples to discover cell-type-specific expression signatures relevant to **inflammation**, **neurodegeneration**, and **digital phenotyping**. This explores how gene expression can inform **P4 medicine** (Predictive, Preventive, Personalized, and Participatory).
 ---
 
-## 📂 Data Sources
+## Data Sources
 - **GSE63060** - Normalized blood transcriptomic data
 - **GSM5645890** - Brain metastasis single-cell RNA-seq data with cell type annotations
 ---
@@ -15,7 +15,7 @@ This project applies transcriptomic analysis of human blood and brain metastasis
 - Score inflammatory burden per cell type
 - Allow interactive gene panel selection
 ---
-## 📈 Key Analyses
+## Key Analyses
 
 | Method | Purpose |
 |--------|---------|
@@ -65,6 +65,7 @@ It demonstrates how large-scale data can inform **precision diagnostics** and **
 
 ## Author
 **Zareen Rahman**
+
 _Motivated by systems biology, and currently exploring opportunities to assist with translational research._
 
 ---
