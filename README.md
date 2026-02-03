@@ -1,6 +1,6 @@
 # Blood Transcriptomics for Precision Medicine
 
-This project explores transcriptomic data from blood and brain samples to examine cell-type-specific gene expression patterns relevant to **inflammation**, **neurodegeneration**, and **digital phenotyping**. The work focuses on exploratory analysis, clustering, and visualization to understand how molecular profiles can inform precision and preventive medicine research.
+This project explores transcriptomic data from blood and brain samples to examine cell-type-specific gene expression patterns relevant to **inflammation** and **neurodegeneration**. The work focuses on exploratory analysis, clustering, and visualization to understand how molecular profiles can inform precision and preventive medicine research.
 
 ---
 
